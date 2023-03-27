@@ -6,3 +6,9 @@ we have 3 options to choose one is Rock , second is Paper and the thrird is Scis
 In each round the player and computer have one chance to play.
 The computer randomly choose any option and disply what option is choosen.
 At the end of game it will show the point aquire by the player and display who win the game
+
+
+#ScreenShot
+
+![Capture1](/screenshot/1.png)
+![Capture1](/screenshot/2.png)
