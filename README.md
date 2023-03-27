@@ -7,6 +7,8 @@ In each round the player and computer have one chance to play.
 The computer randomly choose any option and disply what option is choosen.
 At the end of game it will show the point aquire by the player and display who win the game
 
+Here is my replit link : https://replit.com/@mrabelantony/STONE-PAPER-SCISSORS
+
 
 #ScreenShot
 
