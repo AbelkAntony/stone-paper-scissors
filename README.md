@@ -10,6 +10,12 @@ At the end of game it will show the point aquire by the player and display who w
 Here is my replit link : https://replit.com/@mrabelantony/STONE-PAPER-SCISSORS
 
 
+
+https://user-images.githubusercontent.com/122546743/234966620-f364291a-d730-4395-89aa-082a0b92140a.mp4
+
+
+
+
 #ScreenShot
 
 ![Capture1](/screenshot/1.png)
